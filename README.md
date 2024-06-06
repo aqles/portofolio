@@ -1,12 +1,12 @@
 # Consultant
 
-###Education
+### Education
 Management, Bachelor
 
-###Work Experience
+### Work Experience
 Intern @ Pertamina
 Intenr @ NetMedia
 Consultant @ Jakarta Government
 
-###Projects
+### Projects
 ongoing project
